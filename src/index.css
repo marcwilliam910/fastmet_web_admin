@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #ffa840; /* amber-500 */
+  --color-secondary: #0f2535; /* your dark blue */
+  --color-hover: #132b3e;
+}
